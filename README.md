@@ -36,7 +36,7 @@ uvicorn app.main:app --reload
 
 ## 🔌 Run Tests
 ```bash
-pytest test_assignment.py -v
+pytest app/test_api.py -v
 ```
 
 ## 🧠 Bin Packing (Bonus)
